@@ -76,15 +76,6 @@ These insights help mentors focus on what drives intern performance.
 
 ---
 
-## 📷 Screenshots
-
-<p float="left">
-  <img src="screenshots/form_input.png" width="45%"/>
-  <img src="screenshots/prediction_result.png" width="45%"/>
-</p>
-
----
-
 ## 👨‍💻 Author
 
 **HamadAli939**  
